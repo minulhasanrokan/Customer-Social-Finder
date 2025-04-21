@@ -121,7 +121,6 @@ This query is passed to Google’s Custom Search API.
 
 ## 📁 Project Structure
 
-```
 src/
 ├── Http/
 │   └── Controllers/
@@ -136,24 +135,6 @@ src/
 
 ---
 
-## 🧪 Development
-
-If you're developing this package:
-
-### Tag a release:
-
-```bash
-git tag v1.0.0
-git push origin v1.0.0
-```
-
-### Packagist Publishing
-
-1. Create a GitHub repository
-2. Push your code
-3. Visit [https://packagist.org](https://packagist.org)
-4. Submit your GitHub repo
-5. Done 🎉
 
 ---
 
