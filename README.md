@@ -22,23 +22,6 @@ A Laravel package to help find social media profiles (LinkedIn, Facebook, Twitte
 composer require minulhasanrokan/customer-social-finder
 ```
 
-If it's not published on Packagist yet, you can add it manually:
-
-```json
-"repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/minulhasanrokan/customer-social-finder"
-    }
-]
-```
-
-Then run:
-
-```bash
-composer require minulhasanrokan/customer-social-finder
-```
-
 ---
 
 ## 📂 Publish Views (Optional)
