@@ -131,12 +131,6 @@ src/
 ├── routes/
 │   └── web.php
 └── CustomerSocialFinderServiceProvider.php
-```
-
----
-
-
----
 
 ## 🙋 License
 
